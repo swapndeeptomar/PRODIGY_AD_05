@@ -100,4 +100,4 @@ public class ScanQRCodeActivity extends AppCompatActivity {
             }
         }
     }
-}
+} 
