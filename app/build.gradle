@@ -41,4 +41,4 @@ dependencies {
     implementation ('eu.livotov.labs.android:CAMView:2.0.1@aar') {transitive=true}
 
     implementation 'com.journeyapps:zxing-android-embedded:4.2.0'
-}
+} 
