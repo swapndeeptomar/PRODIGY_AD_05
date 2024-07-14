@@ -23,4 +23,4 @@ public class ExampleInstrumentedTest {
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
         assertEquals("com.example.qr_code_generatorscanner", appContext.getPackageName());
     }
-}
+} 
