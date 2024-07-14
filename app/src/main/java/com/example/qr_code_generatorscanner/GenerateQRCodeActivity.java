@@ -81,4 +81,4 @@ public class GenerateQRCodeActivity extends AppCompatActivity {
         });
 
     }
-}
+} 
